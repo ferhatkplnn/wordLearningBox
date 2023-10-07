@@ -22,3 +22,7 @@ Bu basit web uygulaması, İngilizce kelimeleri öğrenmeyi kolaylaştırmak iç
 -   Kelime doğru ise sonraki kelimeye geçersiniz, yanlış ise doğru çeviriyi gösterir ve tekrar yazmanızı ister.
 -   Her kelime girildiğinde, kelimenin doğru telaffuzunu otomatik olarak dinlersiniz.
 -   Bir kelime belirli bir seviyeye kadar öğrenildiğinde, otomatik olarak "Box 2" bölümüne gönderilir.
+
+![image](https://github.com/ferhatkplnn/wordLearningBox/assets/29931637/0be6b54b-e33e-41cc-b0b9-6b20940f39ca)
+
+![image](https://github.com/ferhatkplnn/wordLearningBox/assets/29931637/fd2d0ea4-2951-4bdc-b03c-7225cbc2e0ca)
